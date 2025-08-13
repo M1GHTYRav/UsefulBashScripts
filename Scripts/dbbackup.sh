@@ -4,9 +4,9 @@
 #
 # DB Credentials
 
-DB_USER="WpUser"
-DB_PASSWORD="WpPassWord"
-DB_NAME="WpDBNAME"
+DB_USER="WpUser" #Add DB User Name
+DB_PASSWORD="WpPassWord" #Add DB User Password
+DB_NAME="WpDBNAME" #Add Your DB Name
 
 #BackUp DIR
 
